@@ -179,6 +179,5 @@ public class SampleController {
 			logger.info("파일 이름 : " + file.getOriginalFilename());
 			logger.info("파일 크기 : " + file.getSize());
 		}
-
 	}
 }
